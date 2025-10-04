@@ -1,0 +1,23 @@
+{
+  "name": "The_Bones_Play",
+  "version": "1.0.0",
+  "description": "Pagina para el streamer The_Bones_Play, datos importantes, redes, videos famosos o importantes, Conócelo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladyBNHA/The_Bones_Play.git"
+  },
+  "keywords": [],
+  "author": "Leidy Rico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ladyBNHA/The_Bones_Play/issues"
+  },
+  "homepage": "https://github.com/ladyBNHA/The_Bones_Play#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
